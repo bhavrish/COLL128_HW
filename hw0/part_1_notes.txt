@@ -1,0 +1,1 @@
+When I log in to CLEAR, my home directory is pretty empty except for my COMP321 and 421 respositories. The shell is very minimalistic (as I have not configured it yet), which is a huge difference from the setup you showed us in class where you had color, auto-completion, and other features.
